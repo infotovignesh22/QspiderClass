@@ -13,3 +13,5 @@ Whatsapp Application
 6. BroadCast Feature
 
 7.Community Feature Added
+
+8. Report Feature Added
