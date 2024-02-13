@@ -4,7 +4,7 @@ Whatsapp Application
 
 2. Profile Page Feature
 
-3. Status Page Feature
+3. Status Page Feature can add 90 secs videos
 
 4. UPI Paement Feature
 
